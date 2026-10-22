@@ -85,7 +85,7 @@ export default function Home() {
       <div className="ambient ambient-one" aria-hidden="true" />
       <div className="ambient ambient-two" aria-hidden="true" />
 
-      <header className="site-header">
+      <header className="header site-header">
         <a className="brand" href="#home" aria-label="Momin home" onClick={closeMenu}>
           <span className="brand-mark">M.</span>
           <span className="brand-name">MOMIN<span className="brand-dot">.</span></span>
